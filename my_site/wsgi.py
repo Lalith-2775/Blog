@@ -23,7 +23,7 @@ User = get_user_model()
 
 # Set your desired credentials here
 username = 'admin'
-password = 'YourSecretPassword123' # Change this!
+password = 'lalithblog' # Change this!
 email = 'admin@example.com'
 
 try:
